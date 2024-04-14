@@ -3,7 +3,9 @@
 </p>
 
 ### Hi there 👋
-
+- 🔭 I’m currently working on a planner for my Object Oriented Design class
+- 🌱 I’m currently learning Logic & Computation, OOD, Math of Data Model, and Understanding Users
+- ⚡ Fun fact: My favorite topic this year has been learning linear algebra and ML
 
 <!--
 **vonbuelow/vonbuelow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
