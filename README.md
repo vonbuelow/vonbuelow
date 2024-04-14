@@ -1,11 +1,4 @@
-<div style="width:100%;height:0;padding-bottom:33%;position:relative;">
-  <iframe src="https://giphy.com/embed/dxfsNZLZIblStprZ3c" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-</div>
-<p>
-  <a href="https://giphy.com/gifs/dxfsNZLZIblStprZ3c">via GIPHY</a>
-</p>
 
-<img src="[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXg4d3psM3hlaDkyZ3V6NndzZG0ybjZjdGliZ2l5bTE4eG5sdTcyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxfsNZLZIblStprZ3c/giphy.gif)" width="40" height="40" />
 ### Hi there 👋
 
 
