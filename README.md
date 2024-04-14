@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/gitanimation-ezgif.com-video-to-gif-converter.gif" alt="Hi, I'm Emma">
+</p>
 
 ### Hi there 👋
 
