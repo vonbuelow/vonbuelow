@@ -4,7 +4,7 @@
 
 <p>
   <ul>
-    <li>✿ currently: working on a planner in java for Object Oriented Design</li>
+    <li>✿ currently: working on a notebook summarizing ml concepts from mathmatics of data models</li>
     <li>❀ classes: c++ and algorithms</li>
     <li>❁ semester highlight: learning linear algebra</li>
   </ul>
