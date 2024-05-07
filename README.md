@@ -5,7 +5,7 @@
 <p>
   <ul>
     <li>✿ currently: working on a planner in java for Object Oriented Design</li>
-    <li>❀ classes: logic & comp, OOD, Math of Data Models, and Understanding Users</li>
+    <li>❀ classes: c++ and algorithms</li>
     <li>❁ semester highlight: learning linear algebra</li>
   </ul>
 </p>
