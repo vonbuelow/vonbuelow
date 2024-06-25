@@ -4,9 +4,9 @@
 
 <p>
   <ul>
-    <li>✿ currently: working on a notebook summarizing ml concepts from mathmatics of data models</li>
-    <li>❀ classes: c++ and algorithms</li>
-    <li>❁ semester highlight: learning linear algebra</li>
+    <li>✿ currently: working at Cyborg Moblile as a New Tech</li>
+    <li>❀ topics I'm learning: product development</li>
+    <li>❁ summer highlight: being in washington with amazing and talented individuals</li>
   </ul>
 </p>
 
