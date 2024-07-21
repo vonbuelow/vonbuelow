@@ -4,7 +4,7 @@
 
 <p>
   <ul>
-    <li>✿ currently: working at Cyborg Moblile as a New Tech</li>
+    <li>✿ currently: working at Microsoft & Cyborg Mobile as a New Tech</li>
     <li>❀ topics I'm learning: product development</li>
     <li>❁ summer highlight: being in washington with amazing and talented individuals</li>
   </ul>
