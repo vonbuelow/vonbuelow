@@ -5,8 +5,8 @@
 <p>
   <ul>
     <li>✿ currently: working on personal portfolio</li>
-    <li>❀ topics I'm learning: qualitative research and computer vision</li>
-    <li>❁ summer highlight: being in washington with amazing and talented individuals</li>
+    <li>❀ topics I'm learning: qualitative research</li>
+    <li>❁ fall highligh: finish conducting my first research study</li>
   </ul>
 </p>
 
