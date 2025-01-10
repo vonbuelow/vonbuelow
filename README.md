@@ -4,9 +4,9 @@
 
 <p>
   <ul>
-    <li>✿ currently: working on personal portfolio</li>
-    <li>❀ topics I'm learning: qualitative research</li>
-    <li>❁ fall highligh: finish conducting my first research study</li>
+    <li>✿ currently: working on classes (systems and web dev)</li>
+    <li>❀ topics I'm learning: algo, human computer interaction, systems, and web development</li>
+    <li>❁ spring highlight: becoming lead certified!!</li>
   </ul>
 </p>
 
